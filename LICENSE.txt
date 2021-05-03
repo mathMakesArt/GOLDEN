@@ -1,0 +1,3 @@
+This program uses p5.js, specifically as p5.min.js, which is licensed under the GNU Lesser General Public License v2.1
+You can find a copy of the p5.js license and related code here:
+https://github.com/processing/p5.js/blob/main/license.txt

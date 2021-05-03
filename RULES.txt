@@ -1,0 +1,116 @@
+DISCLAIMER
+This prize offer is void where prohibited by law. No purchase necessary. Ownership of the "GOLDEN" NFT (or any other NFT) does not entitle you to any advantage in solving this puzzle.
+
+
+
+THE LIVE WEBPAGE FOR THIS PUZZLE IS: https://mathmakes.art/puzzle
+This document serves to describe the rules at launch. Any future changes, along with other relevant information, will be documented on that webpage.
+
+
+
+THE NFT
+"GOLDEN" is an NFT created by @MathMakesArt (https://mathmakes.art) on 2021/05/03.
+It is a 42-second generative animation which, like many of my previous releases, turns an input string into an arrangement of colored rectangles.
+There are 999 copies in total, released on HicEtNunc at a starting price of 0.03 XTZ. This non-zero price was chosen to prevent "bot hoarding".
+As described elsewhere, ownership of this NFT does NOT give you any special advantage in the contest. The token is simply meant as a collectible item which is relevant to, but separate from, the contest.
+
+
+
+THE PUZZLE
+This NFT, beyond being visual art, serves a secondary purpose of being a puzzle for any viewer to solve!
+Successfully solving the puzzle will grant control over the contents of the "tz1WoJnWZj8CjnAdPkWbipyNKivQrVyHvNnm" Tezos wallet address.
+Control of this wallet is granted via knowledge of the "seed phrase" and password.
+At the time of release, I am not giving any further information beyond what is present in this document.
+THIS PUZZLE IS DESIGNED TO BE VERY DIFFICULT, BUT STILL ABSOLUTELY POSSIBLE TO SOLVE.
+As time goes on, I will publish hints to guide participants in the right direction.
+I do not expect this puzzle to be solved without hints, as it is very ambiguous to begin with.
+
+
+
+THE PRIZE
+Immediately prior to launching this puzzle, I (@MathMakesArt) have funded the prize wallet with 100.0 XTZ. The operation hash associated with this transaction is "op4xLgGq4XcHc19mLVcPZtC5bEd2pHXgBSN6JYkEbc1Yivjdi2o".
+This 100 XTZ value is a minimum; the amount may increase in the future.
+Any profit earned from this NFT (sale revenue beyond my initial 100 XTZ contribution) will be sent to the prize wallet in order to increase the contest bounty.
+Anyone who would like to increase the prize bounty is welcome to do so at any time, via direct contribution to the wallet address.
+
+
+
+HOW TO CLAIM THE PRIZE
+The NFT is the puzzle.
+The solution to this puzzle will yield a 12-word "seed phrase" in the English language, along with a password.
+Having both the seed phrase and password, any user who solves the full puzzle will gain control of a Tezos wallet.
+This wallet (tz1WoJnWZj8CjnAdPkWbipyNKivQrVyHvNnm) is the same wallet where the prize funds are held.
+Using a Tezos wallet software such as Temple, a user can "import" the wallet and send all funds to their own personal Tezos wallet address.
+
+
+
+HOW MANY PRIZES ARE AVAILABLE?
+Only one prize (the entire contents of the prize wallet, minimum 100 XTZ) is available.
+
+The reward is only available until it has been claimed by a winner.
+Solving this puzzle after the prize funds have already been taken does not entitle the user to any reward.
+Similarly, mere participation or partial solution of the puzzle does not entitle the user to any reward.
+
+Regarding groups or teams of participants working together, it is the responsibility of the participants to ensure fair distribution of funds. In the case of a team winning this event, (@MathMakesArt) take no responsibility in deciding how funds are split between the members of that team.
+
+
+
+THE RULES
+I want this contest to be fun! I'd like to avoid being restrictive wherever possible.
+I'm interested to see how participation will evolve over time, and I don't want to stifle that growth.
+
+PROHIBITED ACTIONS:
+ - You may not attempt to subvert the puzzle by "hacking" my social media account(s), wallet softwares, or any other digital property.
+ - You also may not take any such subversive actions against others.
+Such efforts have no way to yield a shortcut to the answer. As described in the "SECURITY MEASURES" section below, there are no electronic copies of the solution seed phrase nor password.
+
+The puzzle has an answer. Just solve it like a normal person, without any malicious intent, and we can all be happy for you when you win!
+
+Because there is so little prohibited, I will instead list
+THINGS THAT ARE ALLOWED:
+ - Forming groups/teams and sharing knowledge (If I had to guess, the winner will not be an individual but a team)
+ - Hoarding discoveries to yourself in hopes that your genius will lead you to the prize (hint: read the parenthetical statement in the line above)
+ - Posting hints, questions, or other relevant information on public social media
+ - Using computers or other technology to assist you in non-malicious ways (e.g. trying to "brute-force" the answer, asking GPT-3 for the answer, using Google Search in an attempt to uncover hidden knowledge)
+Given the nature of the puzzle's design, I find it unlikely that someone will win via "brute-force" methods. But when it comes to cryptography and code-breaking, I'm no expert. It wouldn't surprise me if the winner uses a combination of human thought and technology.
+
+
+
+HINTS, QUESTIONS, ETC.
+ - As stated previously, THIS PUZZLE IS DESIGNED TO BE VERY DIFFICULT, BUT STILL ABSOLUTELY POSSIBLE TO SOLVE.
+ - As stated previously, I do not expect this puzzle to be solved without hints, as it is very ambiguous to begin with.
+ - I will release PUBLIC hints over time, at my own discretion.
+ - Beyond the puzzle webpage, my Twitter account (@MathMakesArt) will likely be the best source of information. This is also the best place to ask me a PUBLIC question, or ask for PUBLIC clarification about a hint.
+ 
+If you don't have a Twitter account, you can ask questions using the following webform:
+https://forms.gle/eWMbW54HA2GxVUXz7
+Answers to such questions will be published on the puzzle webpage, to ensure visibility for those who don't use the social media platform(s) where I am most active.
+
+PLEASE DO NOT PRIVATELY SEND ME ANY EMAIL OR SOCIAL MEDIA MESSAGE ASKING FOR HELP, HINTS, OR OTHER ASSISTANCE.
+You can ask me anything you want in non-private inquiries. And though I'll likely be strict about hints, I'm happy to help you in general.
+But I simply ask that you keep these interactions PUBLIC. The PUBLIC nature of discussion will ensure that all participants have the ability to find my answers to any questions.
+IF YOU SEND ME A NON-PUBLIC INQUIRY ABOUT THIS PUZZLE, I WILL LIKELY IGNORE YOU, AND I MAY BLOCK YOU AFTER MULTIPLE OCCURRENCES.
+
+ 
+ 
+ 
+SECURITY MEASURES
+The seed phrase and password are stored on paper only. Multiple physical backups exist in physically secure locations. This information is not stored on any electronic device.
+Selection of the seed phrase and password was done in a non-networked environment.
+In order to verify contest functionality, the seed phrase and password were imported ONE TIME into a fresh Temple instance on a temporary Ubuntu 20.04 installation image. From this action, the wallet address was retrieved.
+Due to the nature of this puzzle, it's impossible for me to create one without knowing the seed phrase and password. As the sole creator of this contest, I (@MathMakesArt) am the only person with direct and immediate knowledge of its solution. Your trust in this contest fundamentally relies on your trust that I will not take back the funds (100 XTZ) that I contributed to the prize wallet.
+ 
+ 
+ 
+DISCLAIMER
+I (@MathMakesArt) retain sole discretion over all matters of this contest. I reserve the right to modify these rules at any time, using the webpage (https://mathmakes.art/puzzle) to showcase any changes.
+
+As stated many times elsewhere in this document (and in the description of the NFT on HicEtNunc), the purchase of the "GOLDEN" NFT (or any other NFT) will not confer any advantage within this contest.
+All purchases are final and no refunds are available.
+
+
+
+CONTACT:
+email: mathmakesart@gmail.com
+twitter: https://twitter.com/mathmakesart
+website: https://mathmakes.art/puzzle
