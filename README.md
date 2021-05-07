@@ -1,6 +1,10 @@
 # GOLDEN
 Contents of ZIP archive for "GOLDEN" NFT, minted on HicEtNunc at https://www.hicetnunc.xyz/objkt/60494
 
-### WARNING
-The RULES.txt file is identical to [**the RULES.txt file on IPFS**](https://bafybeialx7xi6xkagx3qgi5jagtomb5src5uovwidnrc32ys6w5pua276i.ipfs.infura-ipfs.io/RULES.txt), and does not reflect any rule changes.
-Live updates regarding this puzzle can be found on [**the Puzzle page**](https://mathmakes.art/puzzle) of my website.
+### Summary
+"GOLDEN" (OBJKT#60494) was my first NFT puzzle contest on the Tezos blockchain. The keys to access a 100 XTZ prize wallet were hidden within the artwork. **It was first solved at 12:01 PM GMT on 2021/05/06, approximately 75 hours after it was published.**
+<br />
+<br />
+Information related to this puzzle, including its solution, is available in [**this Twitter thread**](https://twitter.com/mathMakesArt/status/1389167573858652161).
+<br />
+Additionally, there is a dedicated [**page on the MathMakesArt website**](https://mathmakes.art/puzzle) for this puzzle.
